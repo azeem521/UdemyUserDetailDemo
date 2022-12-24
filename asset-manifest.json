@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UdemyUserDetailDemo/static/css/main.d3d10112.css",
+    "main.js": "/UdemyUserDetailDemo/static/js/main.3d8fb03e.js",
+    "index.html": "/UdemyUserDetailDemo/index.html",
+    "main.d3d10112.css.map": "/UdemyUserDetailDemo/static/css/main.d3d10112.css.map",
+    "main.3d8fb03e.js.map": "/UdemyUserDetailDemo/static/js/main.3d8fb03e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d10112.css",
+    "static/js/main.3d8fb03e.js"
+  ]
+}
